@@ -126,3 +126,9 @@ section{
     padding-left:10px;
     padding-right: 10px;
 }
+.new{
+    margin-bottom:20px;
+}
+#contact iframe{
+    width:100%;
+}
